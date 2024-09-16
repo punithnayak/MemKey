@@ -1,0 +1,2 @@
+./MemKey &
+./MemKey-cli
