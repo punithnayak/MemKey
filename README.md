@@ -1,7 +1,7 @@
 # MemKey
 MemKey is a high-performance, in-memory key-value store designed to offer fast data access and caching solutions. Built for efficiency, it supports a range of data structures and is ideal for real-time applications requiring low-latency data retrieval.
 
-![Screeenshot of the client program](/screenshot.png)
+![Screeenshot of the client program](/Screenshot.png)
 
 ## Build Instructions
 Instructions to build the project from source.
